@@ -1,0 +1,15 @@
+.stars-container {
+  display: flex;
+
+  .star {
+    background-color: #fafab6;
+    display: block;
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+  }
+
+  .filled {
+    background-color: yellow;
+  }
+}
